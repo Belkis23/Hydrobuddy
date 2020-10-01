@@ -1,0 +1,351 @@
+{
+    "substances_used_win":[
+        {
+            "NAME":"Ammonium Orthomolybdate",
+            "FORMULA":"(NH4)2MoO4",
+            "PURITY":"        1.00000000",
+            "MO":"       48.94300000",
+            "N (NH4+)":"       14.29400000",
+            "CONCTYPE":"B"
+        },
+        {
+            "NAME":"Copper Nitrate (Hexahydrate)",
+            "FORMULA":"Cu(NO3)2.6H2O",
+            "PURITY":"        1.00000000",
+            "N (NO3-)":"        9.48000000",
+            "CU":"       21.49000000",
+            "CONCTYPE":"B"
+        },
+        {
+            "NAME":"Ammonium Nitrate",
+            "FORMULA":"NH4NO3",
+            "PURITY":"        0.30000000",
+            "N (NO3-)":"       17.50000000",
+            "N (NH4+)":"       17.50000000",
+            "CONCTYPE":"A"
+        },
+        {
+            "NAME":"Ammonium Orthomolybdate",
+            "FORMULA":"(NH4)2MoO4",
+            "PURITY":"        1.00000000",
+            "MO":"       48.94300000",
+            "N (NH4+)":"       14.29400000",
+            "CONCTYPE":"B"
+        },
+        {
+            "NAME":"Ammonium Phosphate",
+            "FORMULA":"(NH4)3PO4",
+            "PURITY":"        1.00000000",
+            "P":"       20.77200000",
+            "N (NH4+)":"       28.19000000",
+            "CONCTYPE":"0"
+        },
+        {
+            "NAME":"Ammonium Sulfate",
+            "FORMULA":"(NH4)2SO4",
+            "PURITY":"        1.00000000",
+            "S":"       24.26700000",
+            "N (NH4+)":"       21.20300000",
+            "CONCTYPE":"B"
+        },
+        {
+            "NAME":"Boric Acid",
+            "FORMULA":"H3BO3",
+            "PURITY":"        1.00000000",
+            "B":"       17.48200000",
+            "CONCTYPE":"B"
+        },
+        {
+            "NAME":"Calcium Carbonate",
+            "FORMULA":"CaCO3",
+            "PURITY":"        1.00000000",
+            "CA":"       40.07800000",
+            "CONCTYPE":"0"
+        },
+        {
+            "NAME":"Calcium Monobasic Phosphate",
+            "FORMULA":"Ca(H2PO4)2.H2O",
+            "PURITY":"        1.00000000",
+            "P":"       24.77900000",
+            "CA":"       16.02900000",
+            "CONCTYPE":"0"
+        },
+        {
+            "NAME":"Calcium Nitrate (Tetrahydrate)",
+            "FORMULA":"Ca(NO3)2.4H2O",
+            "PURITY":"        1.00000000",
+            "N (NO3-)":"       11.86000000",
+            "CA":"       16.97000000",
+            "CONCTYPE":"A"
+        },
+        {
+            "NAME":"Calcium Sulfate (Dihydrate)",
+            "FORMULA":"CaSO4.2H2O",
+            "PURITY":"        1.00000000",
+            "CA":"       23.28000000",
+            "S":"       18.62000000",
+            "CONCTYPE":"0"
+        },
+        {
+            "NAME":"Copper Sulfate (pentahydrate)",
+            "FORMULA":"CuSO4.5H2O",
+            "PURITY":"        1.00000000",
+            "S":"       12.84000000",
+            "CU":"       25.45000000",
+            "CONCTYPE":"B"
+        },
+        {
+            "NAME":"Calcium Carbonate",
+            "FORMULA":"CaCO3",
+            "PURITY":"        1.00000000",
+            "CA":"       40.07800000",
+            "CONCTYPE":"0"
+        },
+        {
+            "NAME":"Ammonium Nitrate",
+            "FORMULA":"NH4NO3",
+            "PURITY":"        0.30000000",
+            "N (NO3-)":"       17.50000000",
+            "N (NH4+)":"       17.50000000",
+            "CONCTYPE":"A"
+        },
+        {
+            "NAME":"Calcium Carbonate",
+            "FORMULA":"CaCO3",
+            "SOURCE":"https://amzn.to/2ZbklJ7",
+            "PURITY":"        1.00000000",
+            "CA":"       40.07800000",
+            "CONCTYPE":"0"
+        },
+        {
+            "NAME":"Magnesium Sulfate (Heptahydrate)",
+            "FORMULA":"MgSO4.7H2O",
+            "SOURCE":"https://amzn.to/2WDdNB2",
+            "PURITY":"        1.00000000",
+            "MG":"        9.86000000",
+            "S":"       13.01000000",
+            "CONCTYPE":"B"
+        },
+        {
+            "NAME":"Iron EDTA",
+            "FORMULA":"Fe(EDTA)",
+            "SOURCE":"https://amzn.to/3cGnEMb",
+            "PURITY":"        1.00000000",
+            "FE":"       13.00000000",
+            "CONCTYPE":"A"
+        },
+        {
+            "NAME":"Mn EDTA",
+            "FORMULA":"MnEDTA",
+            "SOURCE":"https://amzn.to/2ZctkcR",
+            "PURITY":"        1.00000000",
+            "MN":"       13.00000000",
+            "CONCTYPE":"B"
+        },
+        {
+            "NAME":"Zn EDTA",
+            "FORMULA":"ZnEDTA",
+            "SOURCE":"https://amzn.to/3cHIIBQ",
+            "PURITY":"        1.00000000",
+            "ZN":"       14.00000000",
+            "CONCTYPE":"B"
+        },
+        {
+            "NAME":"Copper EDTA",
+            "FORMULA":"CuEDTA",
+            "SOURCE":"https://amzn.to/2WHFYiy",
+            "PURITY":"        1.00000000",
+            "CU":"       14.00000000",
+            "CONCTYPE":"B"
+        },
+        {
+            "NAME":"Ammonium Sulfate",
+            "FORMULA":"(NH4)2SO4",
+            "SOURCE":"https://amzn.to/3dVTmoY",
+            "PURITY":"        1.00000000",
+            "S":"       24.26700000",
+            "N (NH4+)":"       21.20300000",
+            "CONCTYPE":"B"
+        },
+        {
+            "NAME":"Potassium Monobasic Phosphate",
+            "FORMULA":"KH2PO4",
+            "SOURCE":"https://amzn.to/35RbJsc",
+            "PURITY":"        1.00000000",
+            "P":"       22.75800000",
+            "K":"       28.73200000",
+            "CONCTYPE":"B"
+        },
+        {
+            "NAME":"Boric Acid",
+            "FORMULA":"H3BO3",
+            "SOURCE":"https://amzn.to/2y9QnKc",
+            "PURITY":"        1.00000000",
+            "B":"       17.48200000",
+            "CONCTYPE":"B"
+        },
+        {
+            "NAME":"Potassium Sulfate",
+            "FORMULA":"K2SO4",
+            "SOURCE":"https://amzn.to/2TfWrYV",
+            "PURITY":"        1.00000000",
+            "K":"       44.87300000",
+            "S":"       18.40200000",
+            "CONCTYPE":"B"
+        },
+        {
+            "NAME":"Calcium Nitrate (ag grade)",
+            "FORMULA":"5Ca(NO3)2.NH4NO3.10H2O",
+            "SOURCE":"https://amzn.to/2yWIaK0",
+            "PURITY":"        1.00000000",
+            "N (NO3-)":"       14.40000000",
+            "CA":"       19.00000000",
+            "N (NH4+)":"        1.10000000",
+            "CONCTYPE":"A"
+        },
+        {
+            "NAME":"Sodium Molybdate (Dihydrate)",
+            "FORMULA":"Na2MoO4.2H2O",
+            "SOURCE":"https://amzn.to/2X3Xw7n",
+            "PURITY":"        1.00000000",
+            "MO":"       39.65000000",
+            "NA":"       19.00000000",
+            "CONCTYPE":"B"
+        },
+        {
+            "NAME":"Calcium Nitrate (ag grade)",
+            "FORMULA":"5Ca(NO3)2.NH4NO3.10H2O",
+            "SOURCE":"https://amzn.to/2yWIaK0",
+            "PURITY":"        1.00000000",
+            "COST":"        7.93223900",
+            "N (NO3-)":"       14.40000000",
+            "CA":"       19.00000000",
+            "N (NH4+)":"        1.10000000",
+            "CONCTYPE":"A"
+        },
+        {
+            "NAME":"Copper EDTA",
+            "FORMULA":"CuEDTA",
+            "SOURCE":"https://amzn.to/2yYyNJM",
+            "PURITY":"        1.00000000",
+            "COST":"       44.08146528",
+            "CU":"       14.00000000",
+            "CONCTYPE":"B"
+        },
+        {
+            "NAME":"Iron EDTA",
+            "FORMULA":"Fe(EDTA)",
+            "SOURCE":"https://amzn.to/3cGnEMb",
+            "PURITY":"        1.00000000",
+            "COST":"       55.09356426",
+            "FE":"       13.00000000",
+            "CONCTYPE":"A"
+        },
+        {
+            "NAME":"Magnesium Sulfate (Heptahydrate)",
+            "FORMULA":"MgSO4.7H2O",
+            "SOURCE":"https://amzn.to/2WDdNB2",
+            "PURITY":"        1.00000000",
+            "COST":"        2.07234695",
+            "MG":"        9.86000000",
+            "S":"       13.01000000",
+            "CONCTYPE":"B"
+        },
+        {
+            "NAME":"Potassium Sulfate",
+            "FORMULA":"K2SO4",
+            "SOURCE":"https://amzn.to/2TfWrYV",
+            "PURITY":"        1.00000000",
+            "COST":"       19.81957354",
+            "K":"       44.87300000",
+            "S":"       18.40200000",
+            "CONCTYPE":"B"
+        },
+        {
+            "NAME":"Potassium Monobasic Phosphate",
+            "FORMULA":"KH2PO4",
+            "SOURCE":"https://amzn.to/3fXQTft",
+            "PURITY":"        1.00000000",
+            "COST":"       44.07044216",
+            "P":"       22.75800000",
+            "K":"       28.73200000",
+            "CONCTYPE":"B"
+        },
+        {
+            "NAME":"Zn EDTA",
+            "FORMULA":"ZnEDTA",
+            "SOURCE":"https://amzn.to/3cHIIBQ",
+            "PURITY":"        1.00000000",
+            "COST":"       55.09356426",
+            "ZN":"       14.00000000",
+            "CONCTYPE":"B"
+        },
+        {
+            "NAME":"Sodium Molybdate (Dihydrate)",
+            "FORMULA":"Na2MoO4.2H2O",
+            "SOURCE":"https://amzn.to/2X3Xw7n",
+            "PURITY":"        1.00000000",
+            "COST":"       44.07044216",
+            "MO":"       39.65000000",
+            "NA":"       19.00000000",
+            "CONCTYPE":"B"
+        },
+        {
+            "NAME":"Boric Acid",
+            "FORMULA":"H3BO3",
+            "SOURCE":"https://amzn.to/2y9QnKc",
+            "PURITY":"        1.00000000",
+            "COST":"       24.14063740",
+            "B":"       17.48200000",
+            "CONCTYPE":"B"
+        },
+        {
+            "NAME":"Mn EDTA",
+            "FORMULA":"MnEDTA",
+            "SOURCE":"https://amzn.to/2ZctkcR",
+            "PURITY":"        1.00000000",
+            "COST":"       55.09356426",
+            "MN":"       13.00000000",
+            "CONCTYPE":"B"
+        },
+        {
+            "NAME":"Potassium Sulfate",
+            "FORMULA":"K2SO4",
+            "SOURCE":"https://amzn.to/2TfWrYV",
+            "PURITY":"        1.00000000",
+            "COST":"       19.81957354",
+            "K":"       44.87300000",
+            "S":"       18.40200000",
+            "CONCTYPE":"B"
+        },
+        {
+            "NAME":"Calcium Sulfate (Dihydrate)",
+            "FORMULA":"CaSO4.2H2O",
+            "SOURCE":"https://amzn.to/3dVoHb8",
+            "PURITY":"        1.00000000",
+            "COST":"        7.69413923",
+            "CA":"       23.28000000",
+            "S":"       18.62000000",
+            "CONCTYPE":"0"
+        },
+        {
+            "NAME":"Copper EDTA",
+            "FORMULA":"CuEDTA",
+            "SOURCE":"https://amzn.to/2yYyNJM",
+            "PURITY":"        1.00000000",
+            "COST":"       44.08146528",
+            "CU":"       14.00000000",
+            "CONCTYPE":"B"
+        },
+        {
+            "NAME":"Ammonium Sulfate",
+            "FORMULA":"(NH4)2SO4",
+            "SOURCE":"https://amzn.to/3dVTmoY",
+            "PURITY":"        1.00000000",
+            "COST":"       35.25194000",
+            "S":"       24.26700000",
+            "N (NH4+)":"       21.20300000",
+            "CONCTYPE":"B"
+        }
+    ]
+}
